@@ -2,13 +2,5 @@
   "primary": {
     "value": "Inter",
     "type": "fontFamilies"
-  },
-  "Inter": {
-    "value": "assets/fonts/Inter.ttf",
-    "type": "asset"
-  },
-  "ttf": {
-    "value": "assets/fonts/Inter.ttf",
-    "type": "other"
   }
 }
