@@ -9,8 +9,10 @@
       "type": "fontFamilies"
     }
   },
-  "primary": {
-    "value": "{inter.name}",
-    "type": "fontFamilies"
+  "fontFamily": {
+    "primary": {
+      "value": "{inter.name}",
+      "type": "fontFamilies"
+    }
   }
 }
