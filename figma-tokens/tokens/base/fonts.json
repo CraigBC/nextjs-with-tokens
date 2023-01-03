@@ -1,6 +1,16 @@
 {
+  "inter": {
+    "name": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "ttf": {
+      "value": "assets/fonts/Inter.ttf",
+      "type": "fontFamilies"
+    }
+  },
   "primary": {
-    "value": "Inter",
+    "value": "{inter.name}",
     "type": "fontFamilies"
   }
 }

@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "global",
     "base/colors",
-    "base/fonts",
-    "assets/font"
+    "base/fonts"
   ]
 }
