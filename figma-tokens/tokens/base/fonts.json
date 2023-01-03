@@ -4,5 +4,59 @@
       "value": "Inter",
       "type": "fontFamilies"
     }
+  },
+  "fontSize": {
+    "xs": {
+      "value": "12px ",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "14px ",
+      "type": "fontSizes"
+    },
+    "base": {
+      "value": "16px ",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "18px ",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "20px ",
+      "type": "fontSizes"
+    },
+    "2xl": {
+      "value": "24px ",
+      "type": "fontSizes"
+    },
+    "3xl": {
+      "value": "30px ",
+      "type": "fontSizes"
+    },
+    "4xl": {
+      "value": "36px ",
+      "type": "fontSizes"
+    },
+    "5xl": {
+      "value": "48px ",
+      "type": "fontSizes"
+    },
+    "6xl": {
+      "value": "60px ",
+      "type": "fontSizes"
+    },
+    "7xl": {
+      "value": "72px ",
+      "type": "fontSizes"
+    },
+    "8xl": {
+      "value": "96px ",
+      "type": "fontSizes"
+    },
+    "9xl": {
+      "value": "128px",
+      "type": "fontSizes"
+    }
   }
 }
