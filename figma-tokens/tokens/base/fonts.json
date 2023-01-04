@@ -198,5 +198,19 @@
       "value": "none",
       "type": "textCase"
     }
+  },
+  "textDecoration": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    },
+    "no-underline": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   }
 }
