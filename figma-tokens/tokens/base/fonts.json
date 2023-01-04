@@ -129,30 +129,6 @@
     "leading-10": {
       "value": "40px",
       "type": "lineHeights"
-    },
-    "leading-none": {
-      "value": "1",
-      "type": "lineHeights"
-    },
-    "leading-tight": {
-      "value": "1.25",
-      "type": "lineHeights"
-    },
-    "leading-snug": {
-      "value": "1.375",
-      "type": "lineHeights"
-    },
-    "leading-normal": {
-      "value": "1.5",
-      "type": "lineHeights"
-    },
-    "leading-relaxed": {
-      "value": "1.625",
-      "type": "lineHeights"
-    },
-    "leading-loose": {
-      "value": "2",
-      "type": "lineHeights"
     }
   },
   "letterSpacing": {
@@ -211,6 +187,32 @@
     "no-underline": {
       "value": "none",
       "type": "textDecoration"
+    }
+  },
+  "paragraphSpacing": {
+    "leading-none": {
+      "value": "1",
+      "type": "paragraphSpacing"
+    },
+    "leading-tight": {
+      "value": "1.25",
+      "type": "paragraphSpacing"
+    },
+    "leading-snug": {
+      "value": "1.375",
+      "type": "paragraphSpacing"
+    },
+    "leading-normal": {
+      "value": "1.5",
+      "type": "paragraphSpacing"
+    },
+    "leading-relaxed": {
+      "value": "1.625",
+      "type": "paragraphSpacing"
+    },
+    "leading-loose": {
+      "value": "2",
+      "type": "paragraphSpacing"
     }
   }
 }
