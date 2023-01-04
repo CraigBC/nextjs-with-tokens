@@ -154,5 +154,31 @@
       "value": "2",
       "type": "lineHeights"
     }
+  },
+  "letterSpacing": {
+    "tracking-tighter": {
+      "value": "-5%",
+      "type": "letterSpacing"
+    },
+    "tracking-tight": {
+      "value": "-2.50%",
+      "type": "letterSpacing"
+    },
+    "tracking-normal": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "tracking-wide": {
+      "value": "2.50%",
+      "type": "letterSpacing"
+    },
+    "tracking-wider": {
+      "value": "5%",
+      "type": "letterSpacing"
+    },
+    "tracking-widest": {
+      "value": "10%",
+      "type": "letterSpacing"
+    }
   }
 }
