@@ -180,5 +180,23 @@
       "value": "10%",
       "type": "letterSpacing"
     }
+  },
+  "textCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "type": "textCase"
+    },
+    "normal-case": {
+      "value": "none",
+      "type": "textCase"
+    }
   }
 }
