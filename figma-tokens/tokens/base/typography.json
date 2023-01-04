@@ -1,0 +1,25 @@
+{
+  "text": {
+    "body": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.normal}",
+        "lineHeight": "{lineHeight.leading-4}",
+        "paragraphSpacing": "{paragraphSpacing.leading-normal}",
+        "fontSize": "{fontSize.base}",
+        "letterSpacing": "{letterSpacing.tracking-normal}"
+      },
+      "type": "typography",
+      "description": "16px is browser default"
+    }
+  },
+  "typography": {
+    "body": {
+      "value": {
+        "typography": "{text.body}",
+        "fill": "{neutral.900}"
+      },
+      "type": "composition"
+    }
+  }
+}
