@@ -1,0 +1,10 @@
+{
+  "name": "figma-tokens",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "token-transformer tokens build/output.json"
+  },
+  "dependencies": {
+    "token-transformer": "^0.0.28"
+  }
+}

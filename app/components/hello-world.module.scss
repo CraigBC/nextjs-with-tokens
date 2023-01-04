@@ -1,5 +1,8 @@
-$color: red;
+@use 'styles';
 
 .hello {
-  color: $color;
+  font-family: styles.$font-family-primary;
+  color: styles.$neutral-900;
+  font-weight: styles.$font-weight-bold;
+  font-size: styles.$font-size-8xl;
 }

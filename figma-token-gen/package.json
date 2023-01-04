@@ -1,0 +1,12 @@
+{
+  "name": "figma-token-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "figma-token-gen": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
