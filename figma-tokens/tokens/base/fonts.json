@@ -60,6 +60,44 @@
     }
   },
   "fontWeight": {
+    "thin": {
+      "value": "100",
+      "type": "fontWeights"
+    },
+    "extralight": {
+      "value": "200",
+      "type": "fontWeights"
+    },
+    "light": {
+      "value": "300",
+      "type": "fontWeights"
+    },
+    "normal": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "extrabold": {
+      "value": "800",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "900",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
     "leading-3": {
       "value": "12px",
       "type": "lineHeights"
@@ -90,6 +128,30 @@
     },
     "leading-10": {
       "value": "40px",
+      "type": "lineHeights"
+    },
+    "leading-none": {
+      "value": "1",
+      "type": "lineHeights"
+    },
+    "leading-tight": {
+      "value": "1.25",
+      "type": "lineHeights"
+    },
+    "leading-snug": {
+      "value": "1.375",
+      "type": "lineHeights"
+    },
+    "leading-normal": {
+      "value": "1.5",
+      "type": "lineHeights"
+    },
+    "leading-relaxed": {
+      "value": "1.625",
+      "type": "lineHeights"
+    },
+    "leading-loose": {
+      "value": "2",
       "type": "lineHeights"
     }
   }
