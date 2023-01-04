@@ -1,4 +1,34 @@
 {
+  "text": {
+    "body": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "paragraphSpacing": 1.5,
+        "fontSize": "16px",
+        "letterSpacing": "0%"
+      },
+      "type": "typography",
+      "description": "16px is browser default"
+    }
+  },
+  "typography": {
+    "body": {
+      "value": {
+        "typography": {
+          "fontFamily": "Inter",
+          "fontWeight": 400,
+          "lineHeight": "16px",
+          "paragraphSpacing": 1.5,
+          "fontSize": "16px",
+          "letterSpacing": "0%"
+        },
+        "fill": "#171717"
+      },
+      "type": "composition"
+    }
+  },
   "fontFamily": {
     "primary": {
       "value": "Inter",
@@ -263,11 +293,15 @@
       "type": "other"
     },
     "1": {
-      "value": "base/colors",
+      "value": "foundation/colors",
       "type": "other"
     },
     "2": {
-      "value": "base/fonts",
+      "value": "foundation/fonts",
+      "type": "other"
+    },
+    "3": {
+      "value": "base/typography",
       "type": "other"
     }
   }

@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-// Do not edit directly
-// Generated on Tue, 03 Jan 2023 17:51:34 GMT
-
-
-// Do not edit directly
-// Generated on Wed, 04 Jan 2023 11:40:21 GMT
-
+$text-body: [object Object];
+$typography-body: [object Object];
 $font-family-primary: Inter;
 $font-size-xs: 12px;
 $font-size-sm: 14px;
@@ -19,7 +14,7 @@ $font-size-4xl: 36px;
 $font-size-5xl: 48px;
 $font-size-6xl: 60px;
 $font-size-7xl: 72px;
-$font-size-8xl: 96px;
+$font-size-8xl: 80px;
 $font-size-9xl: 128px;
 $font-weight-thin: 100;
 $font-weight-extralight: 200;
@@ -30,6 +25,33 @@ $font-weight-semibold: 600;
 $font-weight-bold: 700;
 $font-weight-extrabold: 800;
 $font-weight-black: 900;
+$line-height-leading-3: 12px;
+$line-height-leading-4: 16px;
+$line-height-leading-5: 20px;
+$line-height-leading-6: 24px;
+$line-height-leading-7: 28px;
+$line-height-leading-8: 32px;
+$line-height-leading-9: 36px;
+$line-height-leading-10: 40px;
+$letter-spacing-tracking-tighter: -5%;
+$letter-spacing-tracking-tight: -2.5%;
+$letter-spacing-tracking-normal: 0%;
+$letter-spacing-tracking-wide: 2.5%;
+$letter-spacing-tracking-wider: 5%;
+$letter-spacing-tracking-widest: 10%;
+$text-case-uppercase: uppercase;
+$text-case-lowercase: lowercase;
+$text-case-capitalize: capitalize;
+$text-case-normal-case: none;
+$text-decoration-underline: underline;
+$text-decoration-line-through: line-through;
+$text-decoration-no-underline: none;
+$paragraph-spacing-leading-none: 1;
+$paragraph-spacing-leading-tight: 1.25;
+$paragraph-spacing-leading-snug: 1.375;
+$paragraph-spacing-leading-normal: 1.5;
+$paragraph-spacing-leading-relaxed: 1.625;
+$paragraph-spacing-leading-loose: 2;
 $neutral-50: #fafafa;
 $neutral-100: #f5f5f5;
 $neutral-200: #e5e5e5;
@@ -41,5 +63,6 @@ $neutral-700: #404040;
 $neutral-800: #262626;
 $neutral-900: #171717;
 $token-set-order-0: global;
-$token-set-order-1: base/colors;
-$token-set-order-2: base/fonts;
+$token-set-order-1: foundation/colors;
+$token-set-order-2: foundation/fonts;
+$token-set-order-3: base/typography;

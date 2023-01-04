@@ -1,9 +1,9 @@
-import HelloWorld from '../components/hello-world'
+import Typography from "../components/typography";
 
 export default function Home() {
   return (
     <div className="app">
-      <HelloWorld />
+      <Typography />
     </div>
-  )
+  );
 }

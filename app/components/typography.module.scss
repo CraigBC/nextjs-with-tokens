@@ -1,0 +1,33 @@
+@use "styles";
+
+.body {
+  font-family: styles.$font-family-primary;
+  font-weight: styles.$font-weight-normal;
+  font-size: styles.$font-size-base;
+  line-height: styles.$paragraph-spacing-leading-normal;
+  letter-spacing: styles.$letter-spacing-tracking-normal;
+}
+
+.h1 {
+  font-family: styles.$font-family-primary;
+  font-weight: styles.$font-weight-bold;
+  font-size: styles.$font-size-2xl;
+}
+
+.h2 {
+  font-family: styles.$font-family-primary;
+  font-weight: styles.$font-weight-semibold;
+  font-size: styles.$font-size-xl;
+}
+
+.h3 {
+  font-family: styles.$font-family-primary;
+  font-weight: styles.$font-weight-medium;
+  font-size: styles.$font-size-lg;
+}
+
+.h4 {
+  font-family: styles.$font-family-primary;
+  font-weight: styles.$font-weight-medium;
+  font-size: styles.$font-size-base;
+}
