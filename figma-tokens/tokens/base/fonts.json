@@ -60,41 +60,37 @@
     }
   },
   "fontWeight": {
-    "thin": {
-      "value": "100",
-      "type": "fontWeights"
+    "leading-3": {
+      "value": "12px",
+      "type": "lineHeights"
     },
-    "extralight": {
-      "value": "200",
-      "type": "fontWeights"
+    "leading-4": {
+      "value": "16px",
+      "type": "lineHeights"
     },
-    "light": {
-      "value": "300",
-      "type": "fontWeights"
+    "leading-5": {
+      "value": "20px",
+      "type": "lineHeights"
     },
-    "normal": {
-      "value": "400",
-      "type": "fontWeights"
+    "leading-6": {
+      "value": "24px",
+      "type": "lineHeights"
     },
-    "medium": {
-      "value": "500",
-      "type": "fontWeights"
+    "leading-7": {
+      "value": "28px",
+      "type": "lineHeights"
     },
-    "semibold": {
-      "value": "600",
-      "type": "fontWeights"
+    "leading-8": {
+      "value": "32px",
+      "type": "lineHeights"
     },
-    "bold": {
-      "value": "700",
-      "type": "fontWeights"
+    "leading-9": {
+      "value": "36px",
+      "type": "lineHeights"
     },
-    "extrabold": {
-      "value": "800",
-      "type": "fontWeights"
-    },
-    "black": {
-      "value": "900",
-      "type": "fontWeights"
+    "leading-10": {
+      "value": "40px",
+      "type": "lineHeights"
     }
   }
 }
